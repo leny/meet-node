@@ -23,5 +23,9 @@
     "eslint": "^3.5.0",
     "eslint-plugin-flowtype": "^2.17.1",
     "flow-bin": "^0.32.0"
+  },
+  "dependencies": {
+    "easy-crc32": "0.0.2",
+    "human-size": "^1.1.0"
   }
 }
